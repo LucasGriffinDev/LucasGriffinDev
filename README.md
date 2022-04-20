@@ -1,4 +1,8 @@
-### Hi there 👋
+### Frontend Dev
+
+Front end dev with a flair for Next.js, testing and UI design.
+
+
 
 <!--
 **LucasGriffinDev/LucasGriffinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
