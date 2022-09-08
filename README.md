@@ -2,6 +2,8 @@
 
 Front end dev with a flair for Next.js, testing and UI design.
 
+[Portfolio](https://lucasgriffindev.github.io/react-tailwind-portfolio/)
+
 
 
 <!--
