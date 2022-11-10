@@ -1,4 +1,4 @@
-### Frontend Dev
+### Javascript Developer
 
  Javascript developer with development experience in React,
             javascript, typescript, Node.js, mongodb and GraphQL. Technical
