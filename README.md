@@ -1,6 +1,11 @@
 ### Frontend Dev
 
-Front end dev with a flair for Next.js, testing and UI design.
+ Javascript developer with development experience in React,
+            javascript, typescript, Node.js, mongodb and GraphQL. Technical
+            skills augmented with a polyglot hotel management background,
+            providing strong collaboration and independent problem solving skill
+            sets. I am an asset to any customer solutions focused development
+            team.
 
 [Portfolio](https://lucasgriffindev.github.io/react-tailwind-portfolio/)
 
