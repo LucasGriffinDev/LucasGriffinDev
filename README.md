@@ -1,13 +1,7 @@
 ### Javascript Developer
 
- Javascript developer with development experience in React,
-            javascript, typescript, Node.js, mongodb and GraphQL. Technical
-            skills augmented with a polyglot hotel management background,
-            providing strong collaboration and independent problem solving skill
-            sets. I am an asset to any customer solutions focused development
-            team.
+Typescript full stack developer, with a passion for the green energy sector
 
-[Portfolio](https://lucasgriffindev.github.io/react-tailwind-portfolio/)
 
 
 
